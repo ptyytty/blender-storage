@@ -10,10 +10,6 @@ const cors = require('cors');
 const app = express();
 const PORT = 3000;
 
-const options = {
-    key: fs.readFileSync('path/to/privkey.pem'),
-    cert: fs.readFileSync('path/to/fullchain.pem')
-  };
 
 // CORS 설정
 app.use(cors());
