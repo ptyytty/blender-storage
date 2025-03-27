@@ -40,6 +40,9 @@ UI 관련 기획
 ERD 참고
 https://velog.io/@kon6443/DB-ERD-%EA%B4%80%EA%B3%84-%EC%8B%9D%EB%B3%84%EC%9E%90-%EA%B4%80%EA%B3%84
 
+shader 관련 참고
+https://hyerinlee.github.io/posts/unity-graphics-study-5/
+
 
 [여유되면 넣을 것들]
 건물 안내판
