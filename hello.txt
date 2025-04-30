@@ -49,9 +49,11 @@ https://hyerinlee.github.io/posts/unity-graphics-study-5/
 
 
 [할 일 정리]
-1. DB 데이터 정리하기
-2. 제안서 작성
-3. 마리아DB 연동 알아보기
+1. 능력치 증가 구상
+2. 메인화면 및 버튼 클릭 제작
+3. 정보처리기사
+4. 전화차단 어플
+
 
 
 
