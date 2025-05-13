@@ -29,6 +29,9 @@ https://velog.io/@kon6443/DB-ERD-%EA%B4%80%EA%B3%84-%EC%8B%9D%EB%B3%84%EC%9E%90-
 shader 관련 참고
 https://hyerinlee.github.io/posts/unity-graphics-study-5/
 
+UI/UX 팁
+https://brunch.co.kr/@sentience-tech/4
+
 
 [여유되면 넣을 것들]
 건물 안내판
@@ -49,10 +52,8 @@ https://hyerinlee.github.io/posts/unity-graphics-study-5/
 
 
 [할 일 정리]
-1. 능력치 증가 구상
-2. 메인화면 및 버튼 클릭 제작
-3. 정보처리기사
-4. 전화차단 어플
+1. 맥북 찾아보기
+2. 화면 기획서
 
 
 
